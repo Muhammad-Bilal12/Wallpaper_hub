@@ -18,7 +18,7 @@ I'm proud to have developed an app that combines functionality, aesthetics, and 
 ## Screenshots
 
 <img src="./screenshots/Screenshot 2023-07-17 023752.png" height=300>
-<img src="./screenshots/Screenshot 2023-07-17 023752.png" height=300>
+<img src="./screenshots/Screenshot 2023-07-17 023922.png" height=300>
 
 ## Installation
 
